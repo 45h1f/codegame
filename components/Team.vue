@@ -9,7 +9,7 @@
       <div class="row">
         <div class="col-lg-4 col-sm-6">
           <div class="single-team">
-            <img src="assets/img/team/team-img-1.jpg" alt="Image">
+            <img src="static/img/team/team-img-1.jpg" alt="Image">
             <div class="team-content">
               <h3>Ciaran Sebastian</h3>
               <span>Graphics Designer</span>
@@ -40,7 +40,7 @@
         </div>
         <div class="col-lg-4 col-sm-6">
           <div class="single-team">
-            <img src="assets/img/team/team-img-2.jpg" alt="Image">
+            <img src="static/img/team/team-img-2.jpg" alt="Image">
             <div class="team-content">
               <h3>Ashiful Islam</h3>
               <span>Professionals Software Developer</span>
@@ -71,7 +71,7 @@
         </div>
         <div class="col-lg-4 col-sm-6 offset-sm-3 offset-lg-0">
           <div class="single-team">
-            <img src="assets/img/team/team-img-3.jpg" alt="Image">
+            <img src="static/img/team/team-img-3.jpg" alt="Image">
             <div class="team-content">
               <h3>Ashfatul Islam</h3>
               <span>Digital Marketer</span>

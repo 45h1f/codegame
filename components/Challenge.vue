@@ -50,7 +50,7 @@
       </div>
     </div>
     <div class="challenges-shape">
-      <img src="assets/img/challenges-shape.png" alt="Image">
+      <img src="static/img/challenges-shape.png" alt="Image">
     </div>
   </section>
 

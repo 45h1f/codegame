@@ -6,7 +6,7 @@
          <div class="col-lg-3 col-md-6">
            <div class="single-footer-widget">
              <a href="" class="logo">
-               <img src="assets/img/logo.png" alt="Image" class="footer-logo-img">
+               <img src="static/img/logo.png" alt="Image" class="footer-logo-img">
              </a>
              <p>CodeGame provides Services related to Web Development, Graphics Design And Digital Marketing</p>
              <ul class="social-icon">

@@ -13,7 +13,7 @@
                 intranet. Web development can range from developing a simple single static page of plain
                 text to complex web applications. </p>
               <div class="feature-shape">
-                <img src="assets/img/feature-shape.png" alt="Image">
+                <img src="static/img/feature-shape.png" alt="Image">
               </div>
             </div>
           </div>
@@ -29,7 +29,7 @@
                 projecting visual communications intended to transmit specific messages to social groups,
                 with specific objectives.</p>
               <div class="feature-shape">
-                <img src="assets/img/feature-shape.png" alt="Image">
+                <img src="static/img/feature-shape.png" alt="Image">
               </div>
             </div>
           </div>
@@ -47,7 +47,7 @@
                 platforms to promote products and services.
               </p>
               <div class="feature-shape">
-                <img src="assets/img/feature-shape.png" alt="Image">
+                <img src="static/img/feature-shape.png" alt="Image">
               </div>
             </div>
           </div>

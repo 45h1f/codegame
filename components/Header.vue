@@ -59,36 +59,28 @@
               <div class="collapse navbar-collapse mean-menu">
                 <ul class="navbar-nav m-auto">
                   <li class="nav-item">
-                    <a href="index.php" class="nav-link active">
-                      Home
-                    </a>
-
+                    <NuxtLink to="/" class="nav-link">Home</NuxtLink>
                   </li>
 
                   <li class="nav-item">
-                    <a href="services.php" class="nav-link">
-                      Services
-                    </a>
-
+                    <NuxtLink to="/services" class="nav-link">Services</NuxtLink>
                   </li>
 
 
                   <li class="nav-item">
-                    <a href="team.php" class="nav-link">
-                      Team
-                    </a>
+                    <NuxtLink to="/team" class="nav-link">Team</NuxtLink>
                   </li>
 
                   <li class="nav-item">
-                    <a href="about.php" class="nav-link">About Us</a>
+                    <NuxtLink to="/about" class="nav-link">About Us</NuxtLink>
                   </li>
 
                   <li class="nav-item">
-                    <a href="contact.php" class="nav-link">Contact Us</a>
+                    <NuxtLink to="/contact" class="nav-link">Contact Us</NuxtLink>
                   </li>
 
                   <li class="nav-item">
-                    <a href="faq.php" class="nav-link">FAQ</a>
+                    <NuxtLink to="/faq" class="nav-link">FAQ</NuxtLink>
                   </li>
 
 

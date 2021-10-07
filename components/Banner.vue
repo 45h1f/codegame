@@ -4,7 +4,7 @@
       <div class="d-table-cell">
         <div class="container">
           <div class="banner-content">
-            <img src="assets/img/banner/banner-logo.png" class="wow fadeInDown" data-wow-delay="1s" alt="Image">
+            <img src="static/img/banner/banner-logo.png" class="wow fadeInDown" data-wow-delay="1s" alt="Image">
             <span class="top-title wow fadeInDown" data-wow-delay="1s">
                         World class services for you
                     </span>
